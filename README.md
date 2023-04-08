@@ -2,4 +2,4 @@
 
 ### [Connect with me 💬](https://bio.link/dharmbir) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dharmbir-dev.Dharmbir-dev)
-[![dharm244's GitHub | Topics Over Time](https://stats.quine.sh/dharm244/topics-over-time?theme=light)](https://quine.sh)
+<img src= "https://github.com/sameerasw/folder-icons/blob/main/PNGs/more.png" width="29">[**Topics Over Time**](https://stats.quine.sh/dharm244/topics-over-time?theme=light)
