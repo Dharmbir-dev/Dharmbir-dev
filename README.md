@@ -5,4 +5,4 @@
 
 ![Languages Over Time](https://stats.quine.sh/dharm244/languages-over-time?theme=dark)
 
-![Topics Over Time](https://stats.quine.sh/dharm244/topics-over-time?theme=light)
+
