@@ -2,3 +2,5 @@
 
 ### [Connect with me 💬](https://bio.link/dharmbir) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dharmbir-dev.Dharmbir-dev)
+
+![Languages Over Time](https://stats.quine.sh/dharm244/languages-over-time?theme=light)
