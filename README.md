@@ -16,7 +16,7 @@
 </div>
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Dharmbir!](https://bio.link/dharmbir) 
-🧑 Currently a 3rd year CSE student <br>
+🧑 Currently a final year CSE student <br>
 🏫 Pursuing Bachelor of Technology from Panipat Institute of Engineering & Technology. <br>
 👀 I am primarily a C++ developer. <br>
 🌱 I am also skilled in Python and Java. <br>
