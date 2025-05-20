@@ -16,9 +16,7 @@
 </div>
 
 ## Hey, there <a href="https://www.linkedin.com/in/dharmbir-rathee/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-🧑 Currently a final year CSE student <br>
-🏫 Pursuing Bachelor of Technology from Panipat Institute of Engineering & Technology. <br>
-👀 I am primarily a C++ developer. <br>
+👀 I am primarily a Salesforce Developer. <br>
 🌱 I am also skilled in Python and Java. <br>
 🔥 Want to collaborate with me for a project. Drop a message here - <a href="mailto:dharmbirrathee255@gmail.com">`dharmbirrathee255@gmail.com`</a>
 <h3 align="left">Languages and Tools:</h3>
